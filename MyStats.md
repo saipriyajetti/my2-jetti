@@ -22,5 +22,19 @@ The following table represents various types of sports
 >
 > Everything is theoretically impossible, until it is done – *Robert A. Heinlein*
 
+-------------------------------------
+
+## Code Fencing
+> How to prevent robots from automatically filling up a form?
+
+URL- <https://stackoverflow.com/questions/2387496/how-to-prevent-robots-from-automatically-filling-up-a-form>
+
+```
+<?php if(is_search()) { ?>
+   <meta name="robots" content="noindex, nofollow" /> 
+<?php }?>
+
+```
+css_tricks- <https://css-tricks.com/snippets/wordpress/prevent-search-bots-from-indexing-search-results/>
 
 
