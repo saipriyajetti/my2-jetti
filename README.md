@@ -12,3 +12,4 @@
 - Malpuri
 - Masala
 
+https://vscode.dev/github/saipriyajetti/my2-jetti/blob/main/MyStats.md
