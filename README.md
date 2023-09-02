@@ -8,4 +8,7 @@
 1. Shopping
 2. NightRides
 3. Movies
+- Biryani
+- Malpuri
+- Masala
 
