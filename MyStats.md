@@ -14,3 +14,13 @@ The following table represents various types of sports
 | Ice Hockey | Motor Coordination | 8 |
 | Rowing | Body workout | 12 |
 | Table Tennis | Peacemaking | 7 |
+
+-----------------------------------
+
+## pitty Quotations
+> If I have seen further it is by standing on the shoulders of giants - *Isaac Newton*
+>
+> Everything is theoretically impossible, until it is done – *Robert A. Heinlein*
+
+
+
